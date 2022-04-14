@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../Notastic"
+        },
+        {
+            "path": "../../group-project/combo-chat"
+        }
+    ]
+}
